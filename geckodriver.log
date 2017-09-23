@@ -1,0 +1,78 @@
+1506090253427	geckodriver	INFO	geckodriver 0.19.0
+1506090253677	geckodriver	INFO	Listening on 127.0.0.1:49849
+1506090255865	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile.L4xVwm4lDqvu"
+1506090257244	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506090259554	Marionette	INFO	Enabled via --marionette
+[Child 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506090270463	Marionette	INFO	Listening on port 49855
+1506090270695	Marionette	INFO	Listening on port 49855
+1506090270776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506090271152	Marionette	DEBUG	loaded listener.js
+1506090271492	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506090272937	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506090272938	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506090276715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090280205	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280355	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280470	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090280539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090280589	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280657	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280720	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090280774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090280786	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090281154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090281156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090281160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090281196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/"
+1506090282260	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090282635	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090282637	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090282641	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090282643	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090282945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090284018	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090284037	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/"
+1506090284347	Marionette	INFO	New connections will no longer be accepted
+1506090369214	geckodriver	INFO	geckodriver 0.19.0
+1506090369226	geckodriver	INFO	Listening on 127.0.0.1:50162
+1506090371311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aa\\AppData\\Local\\Temp\\rust_mozprofile.30U8Wzf0vjli"
+1506090371866	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506090373039	Marionette	INFO	Enabled via --marionette
+[Child 7732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506090382627	Marionette	INFO	Listening on port 50169
+1506090382660	Marionette	INFO	Listening on port 50169
+1506090382941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506090383256	Marionette	DEBUG	loaded listener.js
+1506090383481	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506090385417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506090385418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506090389804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391551	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391597	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391646	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391675	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391769	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391816	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391854	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090391865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090391912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.livescore.com/soccer/live/"
+1506090393843	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090394783	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090394817	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090394945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090394950	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090395225	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090400134	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090400149	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.livescore.com/soccer/live/"
+1506090400317	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4724] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
